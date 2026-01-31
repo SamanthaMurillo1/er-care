@@ -7,7 +7,7 @@ import { Globe, X, Check, ChevronDown, Clock, MapPin, Activity, AlertCircle, Arr
 // --- GEMINI API & TRANSLATION CONFIGURATION ---
 
 // 1. INCORPORATE API KEY
-const apiKey = "AIzaSyCPV8mqPoo84eNgY2vxCtNJEnQz_dnq4cI"; 
+const apiKey = ""; 
 const MODEL_ID = "gemini-2.5-flash";
 
 const languageOptions = [
